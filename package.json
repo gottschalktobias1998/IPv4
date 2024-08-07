@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/entry.js"
+    "start": "node dist/ipv4_info.js"
   },
   "keywords": [],
   "author": "",
